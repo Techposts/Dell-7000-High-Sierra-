@@ -18,3 +18,9 @@ All USB ports Working</br>
 <h3>Thanks!</h3>
 
 <h2>Donate to support my work!</h2>
+
+<h1>When to Use ALCPlugFix<h1>
+
+If sound is audible through speakers but not through headphone 3.5mm jack. Open the ALCPlugFix and double-click to run the <b>Install.command</b>.
+
+It will fix the headphone sound issue and you will be able to use it with a headphone+mic.
