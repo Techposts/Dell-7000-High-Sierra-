@@ -19,7 +19,7 @@ All USB ports Working</br>
 
 <h2>Donate to support my work!</h2>
 
-<h1>When to Use ALCPlugFix<h1>
+<h1>When to Use ALCPlugFix</h1>
 
 If sound is audible through speakers but not through headphone 3.5mm jack. Open the ALCPlugFix and double-click to run the <b>Install.command</b>.
 
